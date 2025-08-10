@@ -1,0 +1,1 @@
+print("i m noor this is my first py code, python!")
